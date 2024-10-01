@@ -1,0 +1,15 @@
+Script started on 2024-10-01 03:08:38+00:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="132" LINES="7"]
+[0;32m@E10N11 [0m➜ [1;34m/workspaces/warehouse-stage-i-implementation-E10N11/WarehouseStage1 [0;36m([1;31mmain[0;36m) [0m$ javac WishlistTester.java 
+[0;32m@E10N11 [0m➜ [1;34m/workspaces/warehouse-stage-i-implementation-E10N11/WarehouseStage1 [0;36m([1;31mmain[0;36m) [0m$ java Wa[Kiah[K[KshlistTester 
+Wishlist Item added:
+Product: Test Item 1 Quantity: 3
+Wishlist Item added:
+Product: Test Item 2 Quantity: 4
+Final Wishlist:
+[Product: Test Item 1 Quantity: 3, Product: Test Item 2 Quantity: 4]
+[0;32m@E10N11 [0m➜ [1;34m/workspaces/warehouse-stage-i-implementation-E10N11/WarehouseStage1 [0;36m([1;31mmain[0;36m) [0m$ end
+bash: end: command not found
+[0;32m@E10N11 [1;31m➜ [1;34m/workspaces/warehouse-stage-i-implementation-E10N11/WarehouseStage1 [0;36m([1;31mmain[0;36m) [0m$ exit
+exit
+
+Script done on 2024-10-01 03:09:12+00:00 [COMMAND_EXIT_CODE="127"]
